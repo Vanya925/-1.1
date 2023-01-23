@@ -2,7 +2,8 @@
 #include <conio.h>
 #include <iostream>
 main()
-{int a;
+{
+int a;
 printf("Hello!\n");
 system ("pause");
 }
